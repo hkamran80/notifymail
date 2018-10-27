@@ -13,7 +13,8 @@
 ## Installation
 
 ```
-$ pip install notifymail  # or pip3 (for Python 3.x)
+$ pip install notifymail (Python 2.x)
+$ pip3 install notifymail (Python 3.x)
 ```
 
 ## Configuration
